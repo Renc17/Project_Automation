@@ -8,7 +8,7 @@ remotely on your GitHub account create a new repository with the same name (usin
 git clone https://github.com/Renc17/Project_Automation.git
 cd Project_Automation
 
-intall requirements below
+install requirements below
 ```
 
 ## Requirements
