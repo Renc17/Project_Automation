@@ -1,7 +1,7 @@
 # Project Initialization Automation
 
 Run the script on your terminal and initialize a new project with a readme locally in /Documents/MyProjects and
-remotely on your GitHub account create a new repository with the same name then push first commit (README).
+remotely on your GitHub account create a new repository with the same name (using GitHub API) then push first commit (README).
 
 ## Install
 ```bash
