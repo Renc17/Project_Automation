@@ -32,7 +32,7 @@ def init_project(params):
         "Accept"       : "application/vnd.github.v3+json"
     }
     data = {
-        'name': project_name,
+        'name': params,
         'private': True
     }
 
